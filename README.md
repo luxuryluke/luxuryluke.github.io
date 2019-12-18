@@ -2,4 +2,4 @@
 
 Hello, gitworld.
 
-VeeS Code edited.
+VS Code edited.
